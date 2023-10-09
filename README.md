@@ -5,7 +5,7 @@
 私の前職がスーパーであった経験と、AIの学習過程でクラスタリング手法に触れたことが、この分析を試みる動機となりました。
 
 # データセット
-使用データセット: Wholesale customers data.csv
+使用データセット: Wholesale customers data.csv  
 含まれるカラム:
 
 - 販売チャネル  
